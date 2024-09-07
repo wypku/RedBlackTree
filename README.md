@@ -1,4 +1,2 @@
 # RedBlackTree
-RedBlackTree in Java
-
-With addition and deletion on nodes
+RedBlackTree with addition and deletion of nodes in Java
